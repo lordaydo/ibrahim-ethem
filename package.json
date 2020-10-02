@@ -1,0 +1,29 @@
+{
+  "name": "ibrahim-ethem",
+  "version": "1.0.0",
+  "description": "Bu bir deneme",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "ethem": "echo 'Benim adım ethem'",
+    "start": "node app.js"
+  },
+  "keywords": [
+    "deneme",
+    "paket"
+  ],
+  "author": "ibrahim ethem",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.10.7",
+    "nodemailer": "^6.4.12",
+    "simple-is": "^0.2.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^3.3.12"
+  },
+  "repository": {
+    "type":"git",
+    "url":"https://github.com/lordaydo/ibrahim-ethem.git"
+  }
+}
